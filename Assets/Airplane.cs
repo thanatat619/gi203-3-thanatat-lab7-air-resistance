@@ -56,6 +56,5 @@ public class AirPlane : MonoBehaviour
     void Update()
     {
 
-;    }
+        ;    }
 }
-
